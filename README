@@ -178,7 +178,7 @@ Iterate through environment variables::
         print name
         print value
 
-Create new or update enviroment variable::
+Create new or update environment variable::
 
     cron.env['SHELL'] = '/bin/bash'
 
